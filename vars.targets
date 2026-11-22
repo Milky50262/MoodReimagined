@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <!--Set this to your project's name-->
+    <ProjectName>MoodReimagined</ProjectName>
+    <!--Set this to the game's main folder-->
+    <BaseGamePath>$(MSBuildThisFileDirectory)../../</BaseGamePath>
+    <BepInExDir>$(BaseGamePath)/BepInEx</BepInExDir>
+    <GameAssembliesDir>$(BaseGamePath)/CasualtiesUnknown_Data/Managed</GameAssembliesDir>
+  </PropertyGroup>
+</Project>
