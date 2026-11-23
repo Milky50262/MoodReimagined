@@ -2,7 +2,7 @@
 
 # Mood Reimagined
 
-<img src="https://discordapp.com" alt="Mood Reimagined" />
+<img src="https://cdn.discordapp.com/emojis/1528098690881949938.webp" />
 
 </div>
 
