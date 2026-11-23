@@ -41,7 +41,7 @@ A couple of moodles have not been changed and are listed below:
 ## Q&A
 
 **Q: Some moodles are showing the wrong icon.**  
-**A:** You probably downloaded an older version of the mod that had that bug—try updating the mod.
+**A:** You probably downloaded an older version of the mod that had that bug, try updating the mod.
 
 **Q: Can I use the code to make my own mod like this one?**  
 **A:** Yes, absolutely! Just make sure to credit this mod. Be aware that any current bugs in this mod will apply to yours unless you fix them (if you manage to fix them, PLEASE inform me).
