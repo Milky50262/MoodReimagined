@@ -1,6 +1,10 @@
+<div align="center">
+
 # Mood Reimagined
 
-![Mood Reimagined](https://cdn.discordapp.com/emojis/1528098690881949938.webp)
+<img src="https://discordapp.com" alt="Mood Reimagined" />
+
+</div>
 
 ---
 
@@ -52,16 +56,16 @@ A couple of moodles have not been changed and are listed below:
 ### Compatible with:
 - Most mods that don't change moodles.
 - Multiplayer *(this mod is client-sided, I think)*.
-- Somewhat compatible with [Resprite](https://www.nexusmods.com/scavprototype/mods/394).
+- Somewhat compatible with [Resprite](https://nexusmods.com).
 - Should be compatible with Translation mods.
-- Stated to be compatible with [Old Moodles Reused](https://www.nexusmods.com/scavprototype/mods/803).
-- Maybe compatible with [One Too Many Moodles](https://www.nexusmods.com/scavprototype/mods/715) *(untested)*.
+- Stated to be compatible with [Old Moodles Reused](https://nexusmods.com).
+- Maybe compatible with [One Too Many Moodles](https://nexusmods.com) *(untested)*.
 
 ### Not compatible with:
-- [Resintro's Moodles](https://www.nexusmods.com/scavprototype/mods/202)
+- [Resintro's Moodles](https://nexusmods.com)
 - Other moodle mods.
-- [No More Moodles](https://www.nexusmods.com/scavprototype/mods/663) *(pretty self-explanatory, why does it even exist)*
-- Probably not compatible with [Dynamic Moodles](https://www.nexusmods.com/scavprototype/mods/864).
+- [No More Moodles](https://nexusmods.com) *(pretty self-explanatory, why does it even exist)*
+- Probably not compatible with [Dynamic Moodles](https://nexusmods.com).
 
 ---
 
